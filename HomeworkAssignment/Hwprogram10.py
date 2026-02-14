@@ -34,6 +34,6 @@ class Solution:
 
 obj=Solution()
 arr=[1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9]
-n=9
+n=len(arr)
 ans=obj.minJumps(arr,n)
 print(ans)
