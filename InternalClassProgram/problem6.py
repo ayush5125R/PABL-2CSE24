@@ -10,4 +10,5 @@ class Solution:
 object=Solution()
 arr = [1, 2, 3, 4, 5]
 result= object.rotate(arr)
-print(result)         
+print(result)   
+print(result)      
